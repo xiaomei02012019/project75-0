@@ -1,3 +1,3 @@
 (function(){
-    alert("ajax");
+    alert("ajax1");
 })()
